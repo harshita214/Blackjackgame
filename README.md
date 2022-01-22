@@ -1,1 +1,1 @@
-# Java Script Games
+# Simple Java Script Games

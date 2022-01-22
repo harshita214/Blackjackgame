@@ -1,1 +1,1 @@
-# Blackjackgame
+# Java Script Games
